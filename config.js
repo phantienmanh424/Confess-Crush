@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Tiêu đề web",
-    introTitle: 'Ngô Thùy Dương',
+    introTitle: 'Đỗ Thu Thủy',
     introDesc: `Trái đất vốn lạ thường
     mà sao em cứ đi nhầm đường
     lạc vào tim anh lẻ loi
@@ -15,5 +15,5 @@ const CONFIG = {
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/profile.php?id=100013472294479'
+    messLink: 'https://www.facebook.com/profile.php?id=100063736002752'
 }
